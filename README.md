@@ -32,7 +32,7 @@ Follow these steps to set up VigilanceX Pro:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/<your-repo>/vigilancex-pro.git
-   cd vigilancex-pro
+   cd vigilancex pro
    ```
 
 2. **Install Dependencies**:
@@ -49,7 +49,7 @@ Follow these steps to set up VigilanceX Pro:
 
 1. **Launch the Application**:
    ```bash
-   python vigilancex_pro.py
+   python vigilancex pro.py
    ```
 
 2. **Interact with the GUI**:
