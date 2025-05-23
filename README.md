@@ -16,7 +16,7 @@
 
 ## System Requirements
 
-- **Operating System**: Windows 10/11, macOS 10.14+, or Linux (Ubuntu 20.04+ recommended)
+- **Operating System**: Windows 10/11 or Linux (Ubuntu 20.04+ recommended)
 - **Python**: Version 3.8 or higher
 - **Hardware**: NVIDIA GPU with CUDA support (recommended for optimal performance; CPU fallback available)
 - **Dependencies**:
