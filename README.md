@@ -5,7 +5,7 @@
 ## Key Features
 
 - **High-Performance Detection**: Utilizes YOLOv8m for robust, multi-object detection with high frames-per-second (FPS) processing.
-- **GPU Acceleration**: Seamlessly integrates with CUDA-enabled NVIDIA GPUs (e.g., RTX 2050) for optimal performance.
+- **GPU Acceleration**: Seamlessly integrates with CUDA-enabled NVIDIA GPUs (e.g., RTX) for optimal performance.
 - **Modern GUI**: Crafted with PyQt5, featuring a dark retro aesthetic, large live camera feed, and user-friendly controls.
 - **Dynamic Confidence Adjustment**: Adjust detection confidence in real-time using an intuitive slider.
 - **Flexible Detection Control**: Start or stop detection without closing the application.
