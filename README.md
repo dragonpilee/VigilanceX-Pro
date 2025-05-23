@@ -91,6 +91,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions, feedback, or support, please open an issue on the [GitHub repository](https://github.com/<your-repo>/vigilancex-pro) or contact the development team at <your-contact-email>.
+For questions, feedback, or support, please open an issue on the [GitHub repository](https://github.com/dragonpilee/VigilanceX-Pro) or contact the development team at <alan_cyril@yahoo.com>.
 
 **VigilanceX Pro — Empowering Precision in Real-Time Object Detection**
